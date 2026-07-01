@@ -648,7 +648,7 @@
   color: rgba(48, 48, 48, 1);
   font-size: 40px;
   font-family: "Montserrat", sans-serif;
-  font-weight: 500;
+  font-weight: 600;
 }
 .hamagu {
   color: rgba(145, 145, 145, 1);
@@ -657,22 +657,188 @@
   font-weight: 400;
 }
 .money {
-background-color: rgba(240, 248, 255, 0);
-width: 336px;
-height: 78px;
-display: flex;
-flex-direction: column;
-justify-content: space-between;
-gap: 10px;
-margin-left: 27px;
-margin-top: 10px;
-margin-bottom: 32px;
+  background-color: rgba(240, 248, 255, 0);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 10px;
+  margin-left: 27px;
+  margin-top: 10px;
+  margin-bottom: 32px;
 }
 .include {
   color: rgba(18, 19, 22, 1);
- font-family: "Inter", sans-serif;
+  font-family: "Inter", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  margin-left: 43px;
+}
+.mark1 {
+  background-image: url(check.svg);
+  width: 20px;
+  height: 20px;
+  margin-right: 22px;
+}
+.mark2 {
+  background-image: url(check.svg);
+  width: 20px;
+  height: 20px;
+  margin-right: 22px;
+}
+.mark3 {
+  background-image: url(check.svg);
+  width: 20px;
+  height: 20px;
+  margin-right: 22px;
+}
+.mark4 {
+  background-image: url(check.svg);
+  width: 20px;
+  height: 20px;
+  margin-right: 22px;
+}
+.bich1 {
+  color: rgba(63, 65, 69, 1);
+  font-family: "Inter", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+.bich2 {
+  color: rgba(63, 65, 69, 1);
+  font-family: "Inter", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  vertical-align: bottom;
+}
+.bich3 {
+  color: rgba(63, 65, 69, 1);
+  font-family: "Inter", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+.bich4 {
+  color: rgba(63, 65, 69, 1);
+  font-family: "Inter", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+.yoo1 {
+  display: flex;
+}
+.yoo2 {
+  display: flex;
+}
+.yoo3 {
+  display: flex;
+}
+.yoo4 {
+  display: flex;
+}
+.bichgnud {
+  background-color: rgba(240, 248, 255, 0);
+  width: 336px;
+  height: 180px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-left: 24px;
+}
+.select {
+  color: rgba(0, 0, 0, 1);
+  font-size: 16px;
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(164, 209, 226, 1);
+  width: 336px;
+  height: 48px;
+  border-radius: 25px;
+  margin-top: 42px;
+  margin-left: 24px;
+}
+.popular {
+  color: rgba(250, 251, 252, 1);
+  font-family: "Inter", sans-serif;
+  font-size: 16px;
+  font-weight: 350;
+  background-color: rgba(105, 114, 181, 1);
+  width: 91px;
+  height: 27px;
+  border-radius: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 34px;
+}
+.nergu {
+  display: flex;
+  width: 356px;
+  height: 86px;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin-top: 34px;
+}
+.Face {
+background-image: url(Facebook\ Icon.png);
+width: 20.16px;
+height: 20.16px;
+background-size: cover;
+}
+.bicheg1 {
+color: rgba(105, 114, 181, 1);
 font-size: 18px;
-font-weight: 400;
-margin-left: 67px;
-
+font-family: "Montserrat", sans-serif;
+font-weight: 600;
+}
+.FC {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 9px;
+background-color: rgba(250, 251, 252, 1);
+width: 167px;
+height: 44px;
+border-radius: 25px;
+}
+.Insta {
+background-image: url(Instagram\ Icon.png);
+width: 20.16px;
+height: 20.16px;
+background-size: cover;
+}
+.bicheg2 {
+color: rgba(105, 114, 181, 1);
+font-size: 18px;
+font-family: "Montserrat", sans-serif;
+font-weight: 600;
+}
+.IG {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+background-color: rgba(250, 251, 252, 1);
+width: 171px;
+height: 44px;
+border-radius: 25px;
+}
+.icon {
+display: flex;
+gap: 20px;
+}
+.logodayo {
+background-image: url(logo\ 1.svg);
+width: 101px;
+height: 35px;
+background-size: cover;
+}
+.gurvn-durs {
+display: flex;
+justify-content: space-between;
+width: 1200px;
+height: 44px;
+margin-left: 120px;
+margin-top: 300px;
 }
