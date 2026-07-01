@@ -447,7 +447,7 @@
   font-size: 42px;
   font-family: "Inter", sans-serif;
   font-weight: 500;
-  padding-top: 120px; 
+  padding-top: 120px;
 }
 .PYBAGR {
   color: rgba(24, 24, 27, 0.7);
@@ -485,7 +485,7 @@
   opacity: 1;
 }
 .yeah1:hover {
-  border: 3px solid black;
+  border: 3px solid white;
 }
 .zurg2 {
   width: 245px;
@@ -504,7 +504,7 @@
   opacity: 1;
 }
 .yeah2:hover {
-  border: 3px solid black;
+  border: 3px solid white;
 }
 .zurg3 {
   width: 245px;
@@ -523,7 +523,7 @@
   opacity: 1;
 }
 .yeah3:hover {
-  border: 3px solid black;
+  border: 3px solid white;
 }
 .zurg4 {
   width: 245px;
@@ -542,7 +542,7 @@
   opacity: 1;
 }
 .yeah4:hover {
-  border: 3px solid black;
+  border: 3px solid white;
 }
 .zurg5 {
   width: 245px;
@@ -561,7 +561,7 @@
   opacity: 1;
 }
 .yeah5:hover {
-  border: 3px solid black;
+  border: 3px solid white;
 }
 .tom-box {
   display: flex;
@@ -572,8 +572,107 @@
   margin-left: 120px;
 }
 .last-page {
-background-image: url(Price&Footer\ image\ \(1\).png);
-width: 1440px;
-height: 1120px;
-background-size: cover;
+  background-image: url(Price&Footer\ image\ \(1\).png);
+  width: 1440px;
+  height: 1120px;
+  background-size: cover;
+}
+.POOA {
+  color: rgba(0, 0, 0, 1);
+  font-size: 42px;
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+}
+.CAPTRFY {
+  color: rgba(24, 24, 27, 0.7);
+  font-size: 18px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  margin-bottom: 85px;
+}
+.Pc {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 7px;
+}
+.gurvbox {
+  display: flex;
+  justify-content: space-between;
+  width: 1200px;
+  height: 527px;
+  margin-left: 120px;
+}
+.ehnibox {
+  background-color: rgba(250, 251, 252, 1);
+  width: 384px;
+  height: 527px;
+  border-radius: 40px;
+}
+.nextbox {
+  background-color: rgba(250, 251, 252, 1);
+  width: 384px;
+  height: 527px;
+  border-radius: 40px;
+}
+.last {
+  background-color: rgba(250, 251, 252, 1);
+  width: 384px;
+  height: 527px;
+  border-radius: 40px;
+}
+.zurh {
+  background-image: url(IconButton.png);
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background-size: cover;
+  margin-left: 27px;
+}
+.luxury {
+  color: rgba(18, 19, 22, 1);
+  font-size: 18px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+}
+.ZL {
+  background-color: rgba(240, 248, 255, 0);
+  width: 384px;
+  height: 92px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 18px;
+}
+.dollar {
+  color: rgba(48, 48, 48, 1);
+  font-size: 40px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+}
+.hamagu {
+  color: rgba(145, 145, 145, 1);
+  font-family: "Inter", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+.money {
+background-color: rgba(240, 248, 255, 0);
+width: 336px;
+height: 78px;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+gap: 10px;
+margin-left: 27px;
+margin-top: 10px;
+margin-bottom: 32px;
+}
+.include {
+  color: rgba(18, 19, 22, 1);
+ font-family: "Inter", sans-serif;
+font-size: 18px;
+font-weight: 400;
+margin-left: 67px;
+
 }
