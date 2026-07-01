@@ -95,7 +95,7 @@
   align-items: center;
 }
 .terh-lake {
-  color: white;
+  color: rgba(253, 253, 254, 0.8);
   font-size: 37px;
   font-family: "Bebas Neue", sans-serif;
   background-image: url(image\ \(2\).png);
@@ -114,7 +114,7 @@
     -8px -8px rgba(31, 114, 170, 0.46);
 }
 .amar-monastry {
-  color: white;
+  color: rgba(253, 253, 254, 0.8);
   font-size: 37px;
   font-family: "Bebas Neue", sans-serif;
   background-image: url(image\ \(1\).png);
@@ -133,7 +133,7 @@
     -8px -8px rgba(31, 114, 170, 0.46);
 }
 .khuvsgul-lake {
-  color: white;
+  color: rgba(253, 253, 254, 0.8);
   font-size: 37px;
   font-family: "Bebas Neue", sans-serif;
   background-image: url(image\ \(3\).png);
@@ -151,7 +151,7 @@
     -8px -8px rgba(31, 114, 170, 0.46);
 }
 .togoo {
-  color: white;
+  color: rgba(253, 253, 254, 0.8);
   font-size: 37px;
   font-family: "Bebas Neue", sans-serif;
   background-image: url(image\ \(4\).png);
@@ -169,8 +169,289 @@
     -8px -8px rgba(31, 114, 170, 0.46);
 }
 .map {
-  background-image: url(Roadmap\ image\ \(1\).png);
+  background-image: url(Roadmap\ image\ \(2\).png);
   width: 1440px;
-  height: 902px;
+  height: 1022px;
   display: flex;
+}
+.cool-texts {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: rgba(240, 248, 255, 0);
+  width: 513px;
+  height: 640px;
+}
+.sukhbaatar-s {
+  color: black;
+  font-weight: 400;
+  font-size: 24px;
+  font-family: "Inter", sans-serif;
+}
+.amar-money {
+  color: black;
+  font-weight: 400;
+  font-size: 24px;
+  font-family: "Inter", sans-serif;
+}
+.kho-to {
+  color: black;
+  font-weight: 400;
+  font-size: 24px;
+  font-family: "Inter", sans-serif;
+}
+.TTL {
+  color: black;
+  font-weight: 400;
+  font-size: 24px;
+  font-family: "Inter", sans-serif;
+}
+.KL {
+  color: black;
+  font-weight: 400;
+  font-size: 24px;
+  font-family: "Inter", sans-serif;
+}
+.Ub {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  color: black;
+  font-size: 12px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+  gap: 12px;
+}
+.Bul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  color: black;
+  font-size: 12px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+  gap: 12px;
+}
+.Ah {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  color: black;
+  font-size: 12px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+  gap: 12px;
+}
+.Ah2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  color: black;
+  font-size: 12px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+  gap: 12px;
+}
+.Khuvs {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  color: black;
+  font-size: 12px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+  gap: 12px;
+}
+.suuy0 {
+  background-image: url(Icon\ Container\ 2.png);
+  width: 14px;
+  height: 14px;
+  background-position: center;
+  background-size: cover;
+}
+.suuy1 {
+  background-image: url(Icon\ Container\ 2.png);
+  width: 14px;
+  height: 14px;
+  background-position: center;
+  background-size: cover;
+}
+.suuy2 {
+  background-image: url(Icon\ Container\ 2.png);
+  width: 14px;
+  height: 14px;
+  background-position: center;
+  background-size: cover;
+}
+.suuy3 {
+  background-image: url(Icon\ Container\ 2.png);
+  width: 14px;
+  height: 14px;
+  background-position: center;
+  background-size: cover;
+}
+.suuy4 {
+  background-image: url(Icon\ Container\ 2.png);
+  width: 14px;
+  height: 14px;
+  background-position: center;
+  background-size: cover;
+}
+.medku1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+}
+.medku2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+}
+.medku3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+}
+.medku4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+}
+.medku5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+}
+.yeah1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  gap: 159px;
+  background-color: rgba(238, 233, 217, 1);
+  width: 513px;
+  height: 112px;
+  border-radius: 120px;
+}
+.yeah2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 69px;
+  justify-content: space-evenly;
+  background-color: rgba(139, 184, 193, 0.8);
+  width: 513px;
+  height: 112px;
+  border-radius: 120px;
+}
+.yeah3 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 210px;
+  justify-content: space-evenly;
+  background-color: rgba(170, 216, 215, 0.8);
+  width: 513px;
+  height: 112px;
+  border-radius: 120px;
+}
+.yeah4 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 149px;
+  justify-content: space-evenly;
+  background-color: rgba(139, 192, 189, 0.8);
+  width: 513px;
+  height: 112px;
+  border-radius: 120px;
+}
+.yeah5 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 229px;
+  justify-content: space-evenly;
+  background-color: rgba(151, 204, 224, 0.8);
+  width: 513px;
+  height: 112px;
+  border-radius: 120px;
+}
+.day-1 {
+  background-color: rgba(247, 246, 243, 1);
+  width: 52px;
+  height: 52px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  font-family: "Inter", sans-serif;
+  font-size: 14px;
+}
+.day-2 {
+  background-color: rgba(247, 246, 243, 1);
+  width: 52px;
+  height: 52px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  font-family: "Inter", sans-serif;
+  font-size: 14px;
+}
+.day-3 {
+  background-color: rgba(247, 246, 243, 1);
+  width: 52px;
+  height: 52px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  font-family: "Inter", sans-serif;
+  font-size: 14px;
+}
+.day-4 {
+  background-color: rgba(247, 246, 243, 1);
+  width: 52px;
+  height: 52px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  font-family: "Inter", sans-serif;
+  font-size: 14px;
+}
+.day-5 {
+  background-color: rgba(247, 246, 243, 1);
+  width: 52px;
+  height: 52px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  font-family: "Inter", sans-serif;
+  font-size: 14px;
+}
+.DOOA {
+color: rgba(0, 0, 0, 1);
+font-size: 42px; 
+}
+.PYBAGR {
+color: rgba(24, 24, 27, 0.7);
+font-size: 20px;
+}
+.big-square {
+background-color: rgba(240, 248, 255, 0);
+width: 647px;
+height: 640px;
+}
+.wooow {
+display: flex;
+flex-direction: row;
+gap: 40px;
 }
